@@ -6,11 +6,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡  &nbsp;I like to explore new technologies and languages ​​to stay up to date..\
+💡  &nbsp;I like to explore new technologies and languages ​​to stay up to date.\
 🎓 &nbsp;I am currently studying programming technology at the University of Hurlingham.\
-🌱 &nbsp;I am on my way to learning more to be a full stack developer..\
+🌱 &nbsp;I am on my way to learning more to be a full stack developer.\
 ✍️ &nbsp;In my free time I like to watch courses to train myself.\
-💬 &nbsp;Please feel free to contact me for consultation or just to have an interesting discussion..\
+💬 &nbsp;Please feel free to contact me for consultation or just to have an interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lucasecarrasco1@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
