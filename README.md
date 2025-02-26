@@ -6,12 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡  &nbsp;I like to explore new technologies and languages ​​to stay up to date.\
-🎓 &nbsp;I am currently studying programming technology at the University of Hurlingham, Buenos Aires, Argentina.\
-🌱 &nbsp;I am on my way to learning more to be a full stack developer.\
-✍️ &nbsp;In my free time I like to watch courses to train myself.\
-💬 &nbsp;Please feel free to contact me for consultation or just to have an interesting discussion.\
-✉️ &nbsp;You can shoot me an email at lucasecarrasco1@gmail.com! I'll try to respond as soon as I can.
+💡  &nbsp;Me gusta explorar nuevas tecnologias y lenguajes para estar al dia.\
+🎓 &nbsp;Actualmente estudio la tecnicatura en programacion en la Universidad de Hurlingham, Buenos Aires, Argentina.\
+🌱 &nbsp;Estoy en caminar en ser un desarrollar full stack.\
+✍️ &nbsp;En mi tiempo libre me gusta ver cursos para ir capacitandome.\
+💬 &nbsp;Sentite libre de consultarme lo que quieras o simplemente tener una charla.\
+✉️ &nbsp;Podes contactarme lucasecarrasco1@gmail.com!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
