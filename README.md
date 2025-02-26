@@ -8,7 +8,7 @@
 
 💡  &nbsp;Me gusta explorar nuevas tecnologias y lenguajes para estar al dia.\
 🎓 &nbsp;Actualmente estudio la tecnicatura en programacion en la Universidad de Hurlingham, Buenos Aires, Argentina.\
-🌱 &nbsp;Estoy en caminar en ser un desarrollar full stack.\
+🌱 &nbsp;Estoy en camino a ser un desarrollar full stack.\
 ✍️ &nbsp;En mi tiempo libre me gusta ver cursos para ir capacitandome.\
 💬 &nbsp;Sentite libre de consultarme lo que quieras o simplemente tener una charla.\
 ✉️ &nbsp;Podes contactarme lucasecarrasco1@gmail.com!
