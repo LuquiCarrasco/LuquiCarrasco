@@ -1,10 +1,10 @@
 
 <img src="https://www.shutterstock.com/image-photo/digital-technology-software-development-concept-600nw-2261903725.jpg" >
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Lucas</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola a todos! Soy Lucas</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Lucas -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre Mi
 
 💡  &nbsp;Me gusta explorar nuevas tecnologias y lenguajes para estar al dia.\
 🎓 &nbsp;Actualmente estudio la tecnicatura en programacion en la Universidad de Hurlingham, Buenos Aires, Argentina.\
@@ -29,7 +29,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conectate conmigo!
 
 <a href="https://linkedin.com/in/lucas-carrasco-2b924b34a/"><img src="https://img.shields.io/badge/-in:LucasCarrasco-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lucasecarrasco1@gmail.com"><img src="https://img.shields.io/badge/-lucasecarrasco1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
